@@ -1,5 +1,5 @@
 var TelegramBot = require('node-telegram-bot-api');
-var token = '292344842:AAF-xVwiz_cO11o1_VgnqHbOvpFwd3VKOVo';
+var token = '...';
 var emoji = require("node-emoji").emoji;
  
 // Create a bot that uses 'polling' to fetch new updates 
